@@ -9,14 +9,21 @@ This contains material contributed from a number of authors and organsations, in
 
 ## Timetable
 
-* 09.00 Persistent memory hardware
-* 09.30 Persistent memory performance practical
-* 10.00 Persistent memory software
-* 10.45 Break
-* 11.30 Persistent memory programming practical
-* 11.30 Alternative methods of exploiting persistent memory
-* 12.00 Profiling and debugging persistent memory applications
-* 12.30 Summary and Finish
+*	09.00 Persistent memory hardware
+*	09.30 Persistent memory performance practical
+*	10.00 Persistent memory software
+*	10.45 Break
+*	11.30 Persistent memory programming practical
+*	12.15 Alternative methods of exploiting persistent memory
+*	13.00 Lunch
+*	14.00 Higher level programming practical
+*	14.45 Exploiting persistent memory using external tools/software  
+*	15.30 Break
+*	16.00 Profiling/Tracing persistent memory applications
+*	16.30 Exploring PMDK anti patterns using profiling tools practical
+*	17.30 Summary and Finish
+
+
 
 ## Running
 
