@@ -23,5 +23,6 @@ This contains material contributed from a number of authors and organsations, in
 
 ## Running
 
-The practical exercises will be run on the NEXTGenIO prototype system. More details to follow.
+The practical exercises will be run on the NEXTGenIO prototype system. Please visit [this page](Accounts.md) for 
+more details on how to access the system.
 
