@@ -9,17 +9,16 @@ This contains material contributed from a number of authors and organsations, in
 
 ## Timetable
 
-* 08.30 Introduction
-* 08.45 Practical: IOR and Streams
-* 09.00 Hardware, I/O and storage
-* 09.30 Practical: Using different mount points
-* 09.45 Persistent thinking
-* 10.00 Break
-* 10.30 Low-level persistent memory programming
-* 10.45 Practical: Persistent memory programming 
-* 11.00 Higher-level persistent memory programming
-* 11.15 Persistent Memory Programming with PyCOMPSs
-* 12.00 Finish
+* 13.00 Introduction
+* 13.10 Hardware, I/O and storage
+* 13.30 Low-level persistent memory programming
+* 14.00 Practical: Persistent memory programming
+* 14.20 Persistent Thinking
+* 14.30 DAOS and Persistent Memory Usage 
+* 15.00 Break
+* 15.30 DAOS API
+* 16.20 Practical: Hands on Session with DAOS
+* 17.00 Summary and finish
 
 ## Running
 
