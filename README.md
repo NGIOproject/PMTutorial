@@ -1,11 +1,11 @@
-# SC20 Practical Persistent Memory Programming
-This repository contains the slides and exercises for the SC20 tutorial on practical  persistent memory programming.
+# SC21 Practical Persistent Memory Programming: PMDK and DAOS
+This repository contains the slides and exercises for the SC21 tutorial on Practical Persistent Memory Programming: PMDK and DAOS.
 
 This contains material contributed from a number of authors and organsations, including:
 
 * Adrian Jackson, EPCC
-* Javier Conejero, BSC
-* Rosa Badia, BSC
+* Johann Lombardi, Intel
+* Mohamad Chaarawi, Intel
 
 ## Timetable
 
