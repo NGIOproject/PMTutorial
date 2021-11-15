@@ -5,7 +5,5 @@ If you do not have an account assigned to you please contact the tutorial organi
 
 Once you have an account (username and password) for the system should be able to access it as follows:
 
-```
-- ssh ngguestXX@hydra-vpn.epcc.ed.ac.uk
-- then ssh nextgenio-login2
-```
+- `ssh ngguestXX@hydra-vpn.epcc.ed.ac.uk`
+- then `ssh nextgenio-login2`
