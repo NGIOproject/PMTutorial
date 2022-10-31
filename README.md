@@ -1,5 +1,5 @@
-# SC21 Practical Persistent Memory Programming: PMDK and DAOS
-This repository contains the slides and exercises for the SC21 tutorial on Practical Persistent Memory Programming: PMDK and DAOS.
+# SC22 Emerging Storage Interfaces: DAOS and PMDK
+This repository contains the slides and exercises for the SC22 tutorial on Emerging Storage Interfaces: DAOS and PMDK.
 
 This contains material contributed from a number of authors and organsations, including:
 
@@ -9,16 +9,14 @@ This contains material contributed from a number of authors and organsations, in
 
 ## Timetable
 
-* 13.00 Introduction
-* 13.10 Hardware, I/O and storage
-* 13.30 Low-level persistent memory programming
-* 14.00 Practical: Persistent memory programming
-* 14.20 Persistent Thinking
-* 14.30 DAOS and Persistent Memory Usage 
-* 15.00 Break
-* 15.30 DAOS API
-* 16.20 Practical: Hands on Session with DAOS
-* 17.00 Summary and finish
+* 08.30 Introduction
+* 08.45 Persistent memory hardware and programming
+* 09.30 Practical: Benchmarking persistent memory
+* 10.00 Break
+* 10.30 Overview of object stores and DAOS
+* 11.00 DAOS API and programming object stores
+* 11.30 Practical: Exploiting DAOS for applications
+* 12.00 Summary and finish
 
 ## Running
 
