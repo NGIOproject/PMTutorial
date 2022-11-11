@@ -9,13 +9,15 @@ This contains material contributed from a number of authors and organsations, in
 
 ## Timetable
 
+
 * 08.30 Introduction
 * 08.45 Persistent memory hardware and programming
-* 09.30 Practical: Benchmarking persistent memory
+* 09.00 Practical: Benchmarking persistent memory
+* 09.30 Overview of the DAOS object store and CXL integration
 * 10.00 Break
-* 10.30 Overview of object stores and DAOS
-* 11.00 DAOS API and programming object stores
-* 11.30 Practical: Exploiting DAOS for applications
+* 10.30 DAOS API and programming object stores
+* 11.00 Demonstation: Exploiting DAOS for applications
+* 11.30 DAOS storage interfaces
 * 12.00 Summary and finish
 
 ## Running
